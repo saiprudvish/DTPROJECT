@@ -3,7 +3,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { LEFIVEComponent } from './le-five/le-five.component';
 
 const routes: Routes = [
-  {path:'le-five',component:LEFIVEComponent}
+  {path:'',component:LEFIVEComponent}
 ];
 
 @NgModule({
